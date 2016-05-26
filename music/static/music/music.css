@@ -6,3 +6,11 @@
 body {
 	background: white url("http://www.physics.emory.edu/faculty/weeks//pics/stuff/dottile2.gif");
 }
+
+.navbar {
+	border-radius: 0;
+}
+
+.navbar-brand {
+	font-family: 'Satisfy', cursive;
+}
